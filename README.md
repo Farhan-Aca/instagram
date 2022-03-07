@@ -1,5 +1,5 @@
 # Projet bot Instagram
-Objectif : Crée un Bot marketing qui envoie automatiquement un message à des utilisateurs d'Instagram.
+Objectif : Créer un Bot marketing qui envoie automatiquement un message à des utilisateurs d'Instagram.
 
 Auteurs: STELLA Maxence, ACALASOW Farhan, CANTIN Paul
 
@@ -20,7 +20,7 @@ Notre programme est composé de 6 fonctions.
 1) La fonction "login" permet d'accepter les cookies et ensuite de se connecter à Instagram via le compte 'shoesmakeyourlife'.
 2) La fonction "profil" permet d'aller sur la page de profil de notre compte 'shoesmakeyourlife'.
 3) La fonction "following" permet de faire une listes des comptes auxquels on s'est abonné. 
-4) La fonction "checkcomment" nous permet d'aller sur une publication du compte choisi dans l'ordre grâce à la boucle "for elt in lien:" et d'ensuite faire une liste des personnes qui l'ont commentés.S'il y a aucun commentaires sur les deux dernieres publications, la boucle nous revoie au prochain compte de la liste des abonnements.
+4) La fonction "checkcomment" nous permet d'aller sur une publication du compte choisi dans l'ordre grâce à la boucle "for elt in lien:" et d'ensuite faire une liste des personnes qui l'ont commentés. S'il y a aucun commentaires sur les deux dernieres publications, la boucle nous revoie au prochain compte de la liste des abonnements.
 5) La fonction "message" envoie un message tiré d'une liste de message à caractère publicitaire à toutes les personnes de la liste de la fonction "checkcomment".
 
 Le programme s'acheve après avoir parcouru tous les abonnements de son compte.
