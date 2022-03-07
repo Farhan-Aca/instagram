@@ -1,5 +1,5 @@
 # Projet bot Instagram
-Objectif : Bot qui envoie automatiquement un message à des utilisateurs d'Instagram
+Objectif : Bot qui envoie automatiquement un message à des utilisateurs d'Instagram.
 Auteurs: STELLA Maxence, ACALASOW Farhan, CANTIN Paul
 
 Pourquoi ce choix?
