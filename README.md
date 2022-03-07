@@ -16,7 +16,7 @@ Explication technique du bot:
 
 Au préalable, on a installé des packages python, en l'occurrence selenium qui est le plus important pour automatiser la tâche à effectuer sur une page web (ici Instagram), random et time. Il faut aussi installer un webdriver qui nous permet d'ouvrir google Chrome.
 
-Notre programme est composé de 6 fonctions.
+Notre programme est composé de 5 fonctions.
 1) La fonction "login" permet d'accepter les cookies et ensuite de se connecter à Instagram via le compte 'shoesmakeyourlife'.
 2) La fonction "profil" permet d'aller sur la page de profil de notre compte 'shoesmakeyourlife'.
 3) La fonction "following" permet de faire une listes des comptes auxquels on s'est abonné. 
